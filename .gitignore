@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+# Ignore virtual environment folder
+/venv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore IDE-specific files (for PyCharm)
+.idea/
+
+# Add specific files you want to track (remove the wildcard '*')
+!sales_summary.txt
+!sales_data.json
+!main.py
+

@@ -1,0 +1,22 @@
+{
+    "sales": [
+        {
+            "product": "Laptop",
+            "category": "Electronics",
+            "price": 800,
+            "quantity": 5
+        },
+        {
+            "product": "Phone",
+            "category": "Electronics",
+            "price": 100,
+            "quantity": 8
+        },
+        {
+            "product": "Shoe",
+            "category": "Apparel",
+            "price": 50,
+            "quantity": 20
+        }
+    ]
+}

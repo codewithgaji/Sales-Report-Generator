@@ -1,0 +1,15 @@
+🌟 Sales Summary 🌟 
+==================
+📋 Product: Laptop
+ Unit sold: 5
+ Revenue: $4000.00
+
+📋 Product: Phone
+ Unit sold: 8
+ Revenue: $800.00
+
+📋 Product: Shoe
+ Unit sold: 20
+ Revenue: $1000.00
+
+✅ End of Summary 
