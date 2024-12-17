@@ -246,8 +246,7 @@ def sales_summarry():
         error_handling()
 
 
-# This allows google colab to use the files.download func below the sales summary function
-from google.colab import files
+
 """Exporting the sales summary in a readable text format"""
 def exp_sales_summary(sales):
     with open('sales_data.json', 'r') as file:
@@ -275,7 +274,7 @@ def exp_sales_summary(sales):
 
         type_writer(f"📂 Sales summary exported ")
         # The below code allows Google Colab to be able to prompt the system to download the file after export!
-        files.download(file_name)
+
 
     except Exception as e:
         type_writer(f"❌ Error exporting sales summary : {e}")
