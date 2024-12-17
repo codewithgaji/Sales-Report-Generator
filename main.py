@@ -272,6 +272,8 @@ def exp_sales_summary(sales):
             file.write("✅ End of Summary \n")
 
         type_writer(f"📂 Sales summary exported ")
+        # The below code allows Google Colab to be able to prompt the system to download the file after export!
+        files.download(file_name)
 
     except Exception as e:
         type_writer(f"❌ Error exporting sales summary : {e}")
