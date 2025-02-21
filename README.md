@@ -17,7 +17,8 @@ Welcome to the **Sales Report Generator**! This tool allows you to manage and ge
 ## How to Run Locally:
 
 ## Quick Run on Google Colab:
-Run the code here on colab: https://colab.research.google.com/drive/1Be0zPCsN_xim_U2QtNHEshxA0TIFuEui?usp=sharing .
+Run the code [here](https://colab.research.google.com/drive/1Be0zPCsN_xim_U2QtNHEshxA0TIFuEui?usp=sharing) on colab.
+
 If you are trying to export the sales summary and it keeps loading, stop the code from running and the download will pop up to save your file on your device and submit to your employer/instructor 😉 
 
 
