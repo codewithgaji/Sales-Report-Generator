@@ -47,4 +47,3 @@ You can run this project on Google Colab with just a few clicks!
   Create New Features: Collaborators can add new features, like deleting sales, updating sales records, or adding extra data fields.
   Submit Pull Requests: If you've added a feature like deleting sales or any other improvement, create a pull request with your code, and I will review it for merging.
 
-Thank you for using the Sales Report Generator!
