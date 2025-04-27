@@ -41,4 +41,8 @@ Copy code
 python main.py
 How to Run on Google Colab:
 You can run this project on Google Colab with just a few clicks!
+## How to Collaborate:
+  Fork the Repository: If you want to contribute or modify the code, fork this repository and create a pull request with your changes.
+  Create New Features: Collaborators can add new features, like deleting sales, updating sales records, or adding extra data fields.
+  Submit Pull Requests: If you've added a feature like deleting sales or any other improvement, create a pull request with your code, and I will review it for merging.
 
